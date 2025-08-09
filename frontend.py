@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 
 # Backend API URL
-API_URL = "http://127.0.0.1:9999/chat"
+API_URL = "https://ai-agent-chatbot-ry1u.onrender.com/chat"
 
 # Streamlit UI
 st.set_page_config(page_title="LangGraph AI Agent", layout="centered")
